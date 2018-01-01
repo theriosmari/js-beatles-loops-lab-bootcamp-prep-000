@@ -12,6 +12,6 @@ function johnLennonFacts(facts) {
     for (let i = 0; i < musicians.length; i++) {
       array.push(facts[i]+ '!!!')
     }
-    return facts
+    return array
   }
 }
